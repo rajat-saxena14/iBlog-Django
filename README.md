@@ -10,6 +10,3 @@ Step 2- Take an activated virtual environment and install the requirements to ru
 
 `$ pip install -r requirements.txt`
 
-Demo GIF
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
