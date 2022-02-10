@@ -9,3 +9,7 @@ Step 1- `$ git clone https://github.com/rajat-saxena14/iBlog-Django.git`
 Step 2- Take an activated virtual environment and install the requirements to run the project
 
 `$ pip install -r requirements.txt`
+
+Demo GIF
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
